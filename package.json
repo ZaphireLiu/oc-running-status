@@ -1,0 +1,20 @@
+{
+  "name": "oc-running-status",
+  "version": "0.1.0",
+  "description": "One-line live step indicator for the OpenCode TUI: shows the newest reasoning or tool record above the composer while a session runs",
+  "type": "module",
+  "exports": {
+    ".": "./index.ts",
+    "./tui": "./tui.ts"
+  },
+  "keywords": [
+    "opencode",
+    "opencode-plugin",
+    "opencode-tui",
+    "tui",
+    "status",
+    "reasoning",
+    "tool-call",
+    "running"
+  ]
+}
